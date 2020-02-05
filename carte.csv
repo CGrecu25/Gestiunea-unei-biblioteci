@@ -1,0 +1,8 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"COD_CARTE","VARCHAR2(20)","No","","1"
+"DENUMIRE_CARTE","VARCHAR2(50)","No","",""
+"AUTOR_CARTE","VARCHAR2(30)","No","",""
+"NUMAR_EXEMPLARE","NUMBER(5,0)","Yes","",""
+"PRET","NUMBER(5,0)","Yes","",""
+"COD_EDITURA","VARCHAR2(20)","Yes","",""
+"AN_APARITIE","NUMBER(4,0)","Yes","",""

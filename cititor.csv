@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"CNP","NUMBER(13,0)","No","","1"
+"NUME","VARCHAR2(50)","No","",""
+"PRENUME","VARCHAR2(50)","No","",""
+"ORAS","VARCHAR2(35)","Yes","",""
+"EMAIL","VARCHAR2(50)","No","",""
+"TELEFON","NUMBER(10,0)","Yes","",""

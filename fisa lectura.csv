@@ -1,0 +1,5 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"COD_FISA","VARCHAR2(25)","No","","1"
+"COD_CARTE","VARCHAR2(20)","Yes","",""
+"CNP","NUMBER(13,0)","No","",""
+"DATA_IMPRUMUT","DATE","Yes","",""

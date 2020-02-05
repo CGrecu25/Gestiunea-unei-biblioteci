@@ -1,0 +1,5 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"COD_EDITURA","VARCHAR2(20)","No","","1"
+"NUME_EDITURA","VARCHAR2(15)","Yes","",""
+"ADRESA","VARCHAR2(40)","Yes","",""
+"NR_TELEFON","NUMBER(10,0)","Yes","",""
